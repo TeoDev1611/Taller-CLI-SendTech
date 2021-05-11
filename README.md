@@ -6,6 +6,9 @@ Cada ejercicio esta en una carpeta esta es la estructura del proyecto:
 
 ```
 .
+├── gomultiply
+│  ├── main
+│  └── main.go
 ├── multiplicar-dividir-ejemplos
 │  ├── functions.py
 │  └── main.py
